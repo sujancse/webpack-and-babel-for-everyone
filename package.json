@@ -1,5 +1,5 @@
 {
-  "name": "webpack-and-babel-for-everyone",
+  "name": "babel-webpack",
   "version": "1.0.0",
   "description": "Compiling down es6 code to es2015",
   "main": "app.js",
