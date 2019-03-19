@@ -1,0 +1,21 @@
+{
+  "name": "webpack-and-babel-for-everyone",
+  "version": "1.0.0",
+  "description": "Compiling down es6 code to es2015",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack --progress",
+    "watch": "webpack --progress --watch"
+  },
+  "author": "Sujan Mahmud",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
