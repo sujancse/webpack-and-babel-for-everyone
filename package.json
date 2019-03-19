@@ -8,7 +8,7 @@
     "watch": "webpack --progress --watch"
   },
   "author": "Sujan Mahmud",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.3.4",
